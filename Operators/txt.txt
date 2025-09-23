@@ -1,0 +1,14 @@
+operator ?? 
+ 7 types
+ Arthmatic op = + - * % / 
+ Urary,binary,ternay 
+ Assigment
+ shorthand
+ relational
+ logical
+ bitwise
+
+
+
+
+
