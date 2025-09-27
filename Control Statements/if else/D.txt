@@ -1,0 +1,6 @@
+if(true){
+   true asl trch code execute hoil false asl tr baher padel.
+}
+
+break --> use only in switch case and loop.
+continue --> use only in loops.
