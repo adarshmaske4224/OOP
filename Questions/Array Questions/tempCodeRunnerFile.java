@@ -1,0 +1,2 @@
+rr[i] = sc.nextInt();
+     }

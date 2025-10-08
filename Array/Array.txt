@@ -1,0 +1,14 @@
+Q. What is array ?
+
+-> array is consecutive memory allocation to a single variable in which similar type(data type) of data can be stored.
+
+Q. why do we need array ?
+
+-> when you have multiple data/values (like you have 100 of variables) to maintain these varible get harder and to access them also. for simplicity we can simply store that 100 values into our array and an array is represented by a single varible.
+
+when you want to access any value from that array u just need index of array in which that value is stored.
+
+array 
+1] sadha array
+2] multidimensional Arrray
+3] jagged array
